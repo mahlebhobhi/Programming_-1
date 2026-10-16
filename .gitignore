@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+TestResults/
+docs/ci-build.png
